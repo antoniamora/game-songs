@@ -1,0 +1,82 @@
+[
+    {
+        "nombre": "Eleanor Rigby",
+        "autor": "Paul McCartney"
+    },
+    {
+        "nombre": "Hey Jude",
+        "autor": "Paul McCartney"
+    },
+    {
+        "nombre": "Let It Be",
+        "autor": "Paul McCartney"
+    },
+    {
+        "nombre": "Yesterday",
+        "autor": "Paul McCartney"
+    },
+    {
+        "nombre": "Come Together",
+        "autor": "John Lennon"
+    },
+    {
+        "nombre": "Something",
+        "autor": "George Harrison"
+    },
+    {
+        "nombre": "A Hard Day's Night",
+        "autor": "John Lennon"
+    },
+    {
+        "nombre": "Help!",
+        "autor": "John Lennon"
+    },
+    {
+        "nombre": "Lucy in the Sky with Diamonds",
+        "autor": "John Lennon"
+    },
+    {
+        "nombre": "Penny Lane",
+        "autor": "Paul McCartney"
+    },
+    {
+        "nombre": "Strawberry Fields Forever",
+        "autor": "John Lennon"
+    },
+    {
+        "nombre": "Here Comes the Sun",
+        "autor": "George Harrison"
+    },
+    {
+        "nombre": "I Want to Hold Your Hand",
+        "autor": "John Lennon"
+    },
+    {
+        "nombre": "While My Guitar Gently Weeps",
+        "autor": "George Harrison"
+    },
+    {
+        "nombre": "Yellow Submarine",
+        "autor": "Paul McCartney"
+    },
+    {
+        "nombre": "Blackbird",
+        "autor": "Paul McCartney"
+    },
+    {
+        "nombre": "Across the Universe",
+        "autor": "John Lennon"
+    },
+    {
+        "nombre": "All You Need Is Love",
+        "autor": "John Lennon"
+    },
+    {
+        "nombre": "Get Back",
+        "autor": "Paul McCartney"
+    },
+    {
+        "nombre": "Norwegian Wood (This Bird Has Flown)",
+        "autor": "John Lennon"
+    }
+]
